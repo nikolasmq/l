@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>home</title>
+	<title>@yield('title')</title>
 </head>
 <body>
 	<nav>
